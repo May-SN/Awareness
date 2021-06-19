@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 
 <html>
 
@@ -88,9 +88,9 @@
 
 		</div>
 
-					<br><br><br>	<br><br><br>	
+					<br><br><br>	
 
-									<br><br><br>		
+											
 
 										
 
