@@ -69,31 +69,6 @@
 					Our Database will contact you as soon as possible after your action.
 
 					<hr>
-
-						
-
-						</font>				
-
-		</div>
-
-<marquee scrollamount="10">	<div style=" background: orange"><h1><font color="blue">
-
------जागो भाई जागो ! किसी‌ और के चक्कर में आप मत भागो!!----</h1></font></div></marquee>
-
-<marquee scrollamount="13" direction="right">	<div align="center" style=" background: Yellow; "><h1><font color="blue">SN Database Safe n Secure Information</h1></div><hr>
-
-</font></marquee>
-
-<h3>Contact- 7408292839/ mayihelpu.sn@gmail.com</h3>
-
-		</div>
-
-					<br><br><br>	
-
-											
-
-										
-
-</body>
+</font></div>	</body>
 
 </html>
