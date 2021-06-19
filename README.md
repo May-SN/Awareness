@@ -69,6 +69,6 @@
 					Our Database will contact you as soon as possible after your action.
 
 					<hr>
-</font></div>	</body>
+</font></div>	
 
 
